@@ -1,0 +1,4 @@
+C:\Users\joaqu\OneDrive\Desktop\Segundo.Parcial.Series.Cascara\Segundo.Parcial.Series.Cascara\Biblioteca.Clases\obj\Debug\net6.0\Biblioteca.Clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaqu\OneDrive\Desktop\Segundo.Parcial.Series.Cascara\Segundo.Parcial.Series.Cascara\Biblioteca.Clases\obj\Debug\net6.0\Biblioteca.Clases.AssemblyInfoInputs.cache
+C:\Users\joaqu\OneDrive\Desktop\Segundo.Parcial.Series.Cascara\Segundo.Parcial.Series.Cascara\Biblioteca.Clases\obj\Debug\net6.0\Biblioteca.Clases.AssemblyInfo.cs
+C:\Users\joaqu\OneDrive\Desktop\Segundo.Parcial.Series.Cascara\Segundo.Parcial.Series.Cascara\Biblioteca.Clases\obj\Debug\net6.0\Biblioteca.Clases.csproj.CoreCompileInputs.cache
